@@ -1,0 +1,349 @@
+{
+    "basics": {
+      "name": "Ezequiel García Carvalho",
+      "label": "Desarrollador web",
+      "image": "../src/me.jpeg",
+      "email": "skyditec@gmail.com",
+      "phone": "(34) 691 143 713",
+      "url": "https://johndoe.com",
+      "summary": "Desarrolladoro Web desde hace más de 7 años, trabajo en una empresa como mantenimiento de la web y desarrollador de la web. He trabajado primero como freelance para distintos clientes, antes de la pandemia. Mi oficio no es programdor sino electrotecnico pero las bases de eletrotecnico me permitieron de reconvertirme a desarrollador web despues de problemas de salud.",
+      "location": {
+        "address": "Avenida BLas infante, 42 3ºB",
+        "postalCode": "11408",
+        "city": "Jerez de la frontera",
+        "countryCode": "ES",
+        "region": "Cádiz"
+      },
+      "profiles": [{
+        "network": "LinkedIn",
+        "username": "john",
+        "url": "https://twitter.com/john"
+      },
+      {
+        "network": "GitHub",
+        "username": "Zequy40",
+        "url": "https://twitter.com/john"
+      },
+      {
+        "network": "X",
+        "username": "john",
+        "url": "https://twitter.com/john"
+      }
+      ]
+    },
+    "work": [{
+      "name": "Plus Cover",
+      "position": "Desarrollador web",
+      "url": "https://pluscover.es",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "summary": "Desarrollador y mantenimiento de la web al igual que el ERP de la empresa, como mantenimiento de la base de datos, mantenimiento de los servidores y mantenimiento de los sistemas de gestión de la empresa, backend y frontend",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Skyditec",
+      "position": "Desarrollador web",
+      "url": "https://skyditec.com",
+      "startDate": "2016-01-01",
+      "endDate": "2017-12-01",
+      "summary": "Desarrollador en freelance de projectos para distintos clientes.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    
+    {
+      "name": "Asador Los Pollito mi Compare Migue",
+      "position": "Desarrollador web",
+      "url": "https://m-cm.es",
+      "startDate": "2012-02-01",
+      "endDate": "2015-02-01",
+      "summary": "Desarrollador de la tienda online para la venta de comida, con tpv virtuales incorporado, gestion de stock, control de venta, y contabilidad.",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "LP Alfred Sauvy - Francia",
+      "url": "https://institution.com/",
+      "area": "Electrotecnica",
+      "studyType": "CAP - BEP",
+      "startDate": "1994-09-01",
+      "endDate": "1999-09-01",
+      "score": "9.0",
+      "courses": [
+        "Electrotecnica"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Basico",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "Node",
+        "level": "Basico",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Intermedio",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Intermedio",
+        "keywords": [
+          "Control de Versiones",  "Código Fuente"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Intermedio",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+      {
+        "name": "Next.js",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      },
+      {
+        "name": "PHP",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Backend", "Bases de datos MySql"
+        ]
+      },
+      {
+        "name": "Express",
+        "level": "Basic",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript Library", "base de datos no relacionales"
+        ]
+      },
+      {
+        "name": "Python",
+        "level": "Basic",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Reflex Library"
+        ]
+      },
+      {
+        "name": "Svelte",
+        "level": "Basic",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      },
+      {
+        "name": "AstroJs",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      },
+      {
+        "name": "VueJs",
+        "level": "Basic",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      },
+      {
+        "name": "AlpineJs",
+        "level": "Basic",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library"
+        ]
+      },
+      {
+        "name": "Laravel",
+        "level": "Basic",
+        "keywords": [
+          "Desarrollo Web", "Backend", "Bases de datos MySql"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "Francés",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "Portugués",
+        "fluency": "Advanced"
+      },
+      {
+        "language": "Inglés",
+        "fluency": "Basic"
+      }
+    ],
+   
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Cyclismo",
+        "Programción"
+      ]
+    }],
+    "references": [{
+      "name": "ZekiDev",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "Pluscover",
+        "isActive": true,
+        "startDate": "2024-01-01",
+        "endDate": null,
+        "description": "Rediseño de la web de la empresa al igual que la app para los comerciales...",
+        "highlights": [
+          "Sitio web de empresa de parquets"
+        ],
+        "url": "https://pluscover.es/",
+        "github": "https://github.com/Zequy40/ElizabethRom-php"
+      },
+      {
+      "name": "Elizabet Rom",
+      "isActive": true,
+      "startDate": "2023-12-01",
+      "endDate": "2024-02-15",
+      "description": "Tienda de ropa online para venta...",
+      "highlights": [
+        "Una tienda online de ropa, totalmente automatica"
+      ],
+      "url": "https://elizabethrom.com/",
+      "github": "https://github.com/Zequy40/ElizabethRom-php"
+    }
+    ,
+  {
+    "name": "Afilador Pro",
+    "isActive": true,
+    "startDate": "2023-09-01",
+    "endDate": "2023-10-01",
+    "description": "Projecto de web de empresa de afilador de cuchillo...",
+    "highlights": [
+      "Sitio web de afilador de cuchillos"
+    ],
+    "url": "https://fomatec.site/",
+    "github": "https://github.com/Zequy40/afilador"
+  },
+  {
+    "name": "Gazpacho",
+    "isActive": true,
+  "startDate": "2021-06-01",
+  "endDate": "2021-07-01",
+  "description": "Foodtruck de comida casera...",
+  "highlights": [
+    "Sitio web de comida casera para foodtruck"
+  ],
+  "url": "https://gazpacho.fr/"
+},
+  {
+    "name": "Manuel Cavilla",
+    "isActive": false,
+    "startDate": "2023-07-01",
+    "endDate": "2023-08-01",
+    "description": "Portfolio de fotografía...",
+    "highlights": [
+      "Web de portfolio en ingles"
+    ],
+    "url": "https://manuelcavilla.com/",
+    "github": "https://github.com/Zequy40/manuelcavilla_portfolio"
+  },
+  {
+    "name": "Fomatec",
+    "isActive": true,
+    "startDate": "2022-01-01",
+    "endDate": null,
+    "description": "Projecto de tienda online con erp de empresa...",
+    "highlights": [
+      "Projecto para nueva empresa como freelance"
+    ],
+    "url": "https://fomatec.site/",
+    "github": "https://github.com/Zequy40/fomatech"
+  }
+]
+}
