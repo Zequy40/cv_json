@@ -5,8 +5,8 @@
       "image": "../src/me.jpeg",
       "email": "skyditec@gmail.com",
       "phone": "(34) 691 143 713",
-      "url": "https://johndoe.com",
-      "summary": "Desarrolladoro Web desde hace más de 7 años, trabajo en una empresa como mantenimiento de la web y desarrollador de la web. He trabajado primero como freelance para distintos clientes, antes de la pandemia. Mi oficio no es programdor sino electrotecnico pero las bases de eletrotecnico me permitieron de reconvertirme a desarrollador web despues de problemas de salud.",
+      "url": "https://fomatec.site",
+      "summary": "Desarrollador Web desde hace más de 7 años, trabajo en una empresa como mantenimiento de la web y desarrollador de la web. He trabajado primero como freelance para distintos clientes, antes de la pandemia. Mi oficio no es programdor, sino electrotecnico, pero las bases de eletrotecnico me permitieron reconvertirme a desarrollador web despues de problemas de salud.",
       "location": {
         "address": "Avenida BLas infante, 42 3ºB",
         "postalCode": "11408",
@@ -17,17 +17,17 @@
       "profiles": [{
         "network": "LinkedIn",
         "username": "john",
-        "url": "https://twitter.com/john"
+        "url": "https://linkedin.com/in/ezequiel-garcia-carvalho"
       },
       {
         "network": "GitHub",
         "username": "Zequy40",
-        "url": "https://twitter.com/john"
+        "url": "https://github.com/Zequy40"
       },
       {
         "network": "X",
-        "username": "john",
-        "url": "https://twitter.com/john"
+        "username": "SkyditecWeb",
+        "url": "https://twitter.com/@SkyditecW"
       }
       ]
     },
