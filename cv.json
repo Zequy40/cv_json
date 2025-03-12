@@ -285,11 +285,11 @@
     }],
     "projects": [
       {
-        "name": "Pluscover",
-        "isActive": true,
-        "startDate": "2021-02-03",
-        "endDate": "2024-12-06",
-        "description": "Rediseño de la web de la empresa al igual que la app para los comerciales...",
+        "name": "El Pollo soleado",
+        "isActive": false,
+        "startDate": "2025-01-15",
+        "endDate": "2025-02-06",
+        "description": "Creación de una web para asador de pollo simple y segura...",
         "highlights": [
           "Sitio web de empresa de parquets"
         ],
