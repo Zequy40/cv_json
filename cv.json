@@ -2,7 +2,7 @@
     "basics": {
       "name": "Ezequiel García Carvalho",
       "label": "Desarrollador web",
-      "image": "../src/me.jpeg",
+      "image": "me.jpg",
       "email": "skyditec@gmail.com",
       "phone": "(34) 691 143 713",
       "url": "https://fomatec.site",
@@ -201,7 +201,7 @@
       },
       {
         "name": "Python",
-        "level": "Basic",
+        "level": "Intermedio",
         "keywords": [
           "Desarrollo Web", "Frontend", "Backend", "Reflex Library"
         ]
@@ -241,6 +241,14 @@
           "Desarrollo Web", "Backend", "Bases de datos MySql"
         ]
       }
+      ,
+      {
+        "name": "QWIK",
+        "level": "Basic",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Bases de datos MySql"
+        ]
+      }
     ],
     "languages": [
       {
@@ -265,7 +273,10 @@
       "name": "Wildlife",
       "keywords": [
         "Cyclismo",
-        "Programción"
+        "Programción",
+        "Powerlifting",
+        "Strongman",
+        "Culturismo"
       ]
     }],
     "references": [{
@@ -276,8 +287,8 @@
       {
         "name": "Pluscover",
         "isActive": true,
-        "startDate": "2024-01-01",
-        "endDate": null,
+        "startDate": "2021-02-03",
+        "endDate": "2024-12-06",
         "description": "Rediseño de la web de la empresa al igual que la app para los comerciales...",
         "highlights": [
           "Sitio web de empresa de parquets"
