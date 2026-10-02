@@ -286,19 +286,19 @@
     "projects": [
       {
         "name": "El Pollo soleado",
-        "isActive": false,
+        "isActive": true,
         "startDate": "2025-01-15",
         "endDate": "2025-02-06",
         "description": "Creación de una web para asador de pollo simple y segura...",
         "highlights": [
           "Sitio web de empresa de parquets"
         ],
-        "url": "https://pluscover.es/",
+        "url": "https://elpollosoleado.es/",
         "github": "https://github.com/Zequy40/ElizabethRom-php"
       },
       {
       "name": "Elizabet Rom",
-      "isActive": true,
+      "isActive": false,
       "startDate": "2023-12-01",
       "endDate": "2024-02-15",
       "description": "Tienda de ropa online para venta...",
@@ -334,27 +334,39 @@
 },
   {
     "name": "Manuel Cavilla",
-    "isActive": false,
+    "isActive": true,
     "startDate": "2023-07-01",
     "endDate": "2023-08-01",
     "description": "Portfolio de fotografía...",
     "highlights": [
       "Web de portfolio en ingles"
     ],
-    "url": "https://manuelcavilla.com/",
+    "url": "https://manucreative.studio//",
     "github": "https://github.com/Zequy40/manuelcavilla_portfolio"
   },
   {
-    "name": "Fomatec",
+    "name": "Eurocleaning",
     "isActive": true,
-    "startDate": "2022-01-01",
+    "startDate": "2026-01-01",
     "endDate": null,
-    "description": "Projecto de tienda online con erp de empresa...",
+    "description": "Web de limpieza en inglaterra...",
     "highlights": [
-      "Projecto para nueva empresa como freelance"
+      "Web de limpieza para clientes y muestra de servicios"
     ],
-    "url": "https://fomatec.site/",
-    "github": "https://github.com/Zequy40/fomatech"
+    "url": "https://eurocleaning.co.uk/",
+    "github": "https://github.com/Zequy40/"
+  },
+  {
+    "name": "Grave Concern",
+    "isActive": true,
+    "startDate": "2026-01-01",
+    "endDate": null,
+    "description": "Web de limpieza cementerio...",
+    "highlights": [
+      "Web de limpieza de tumbas para los clientes"
+    ],
+    "url": "https://graveconcern.online/",
+    "github": "https://github.com/Zequy40/"
   }
 ]
 }
