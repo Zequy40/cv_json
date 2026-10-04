@@ -32,11 +32,44 @@
       ]
     },
     "work": [{
+      "name": "Manu Creative Studio",
+      "position": "Desarrollador web",
+      "url": "https://manucreative.studio/",
+      "startDate": "2026-01-01",
+      "endDate": null,
+      "summary": "Desarrollador freelance de pagina web, SaaS, tienda online, y ERP para empresas ",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+        {
+      "name": "Garda",
+      "position": "Repartidor",
+      "url": "",
+      "startDate": "2025-01-01",
+      "endDate": "2025-01-01",
+      "summary": "Repartidor de gastronomia italiana",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+        {
+      "name": "Allianz expert",
+      "position": "Software maintenance",
+      "url": "https://www.allianz.fr/?lang=fra",
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-01",
+      "summary": "Pruebas y testing de programa y software de la empresa",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+        {
       "name": "Plus Cover",
       "position": "Desarrollador web",
       "url": "https://pluscover.es",
       "startDate": "2018-01-01",
-      "endDate": null,
+      "endDate": "2022-11-30",
       "summary": "Desarrollador y mantenimiento de la web al igual que el ERP de la empresa, como mantenimiento de la base de datos, mantenimiento de los servidores y mantenimiento de los sistemas de gestión de la empresa, backend y frontend",
       "highlights": [
         "Started the company"
